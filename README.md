@@ -38,4 +38,4 @@ Talklet is a full-stack web application that connects language learners worldwid
 ![Talket UI](https://github.com/divyanshiupreti11/Talket/raw/45f7303d44d2a9633a436eff7b87d72c27c26cbf/Screenshot%202025-07-20%20100312.png)
 ---
 
-![Talket UI](https://github.com/divyanshiupreti11/Talket/raw/45f7303d44d2a9633a436eff7b87d72c27c26cbf/Screenshot%202025-07-20%20100312.png))
+![Talket UI](https://github.com/divyanshiupreti11/Talket/blob/main/Screenshot%202025-07-20%20101733.png?raw=true)
